@@ -1,4 +1,4 @@
-package Starter;
+package starter;
 import java.util.Scanner;
 public class QuadraticEquation {
     double a, b, c;

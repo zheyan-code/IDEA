@@ -1,5 +1,4 @@
-package Starter;
-import java.sql.SQLOutput;
+package starter;
 import java.util.Date;
 import java.util.Scanner;
 public  class Loan {

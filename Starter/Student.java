@@ -1,7 +1,5 @@
-package Starter;
+package starter;
 
-
-import java.sql.SQLOutput;
 
 public class Student
 {

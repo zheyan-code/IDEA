@@ -1,4 +1,4 @@
-package Starter;
+package starter;
 import java.util.Scanner;
 public class Fbi {
     public static void main(String[] args){
